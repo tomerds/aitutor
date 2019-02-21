@@ -43,6 +43,10 @@ function sumEvens(arr){
   return sum;
 }
 
+//input required number
 
+let num = 4000000;
 
-console.log(sumEvens(fibArrayCreator(40000000)));
+//print answer
+
+console.log(sumEvens(fibArrayCreator(num)));
