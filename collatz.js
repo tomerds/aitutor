@@ -48,7 +48,7 @@ function longestChain(maxNum){
 
 //choose maximum number
 
-let num = 10000000;
+let num = 1000000;
 
 //print starting number with maximum collatz length
 
